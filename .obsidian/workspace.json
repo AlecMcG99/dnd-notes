@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Bob The Goblin.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a81d6afb1ae692a",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-readme",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Party/Alec's character/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Party/Alec's character/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "9034be6b4fe89745",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {
+                "file": "Party/Alec's character/General Notes.md"
+              }
             }
           },
           {
@@ -151,179 +138,12 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "16f9b3ad17daeb26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "547ed07e66533859",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d1b511d9727022e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9eb79d41316f1f8b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "6a88fa70fd1a38a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca2d56bcc87037cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "0819a9bfd096e9a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d8b63c5fd2b48d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "3c1f953f32a6dc0e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20008493f0199e84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "aefbc3c4e9a30df9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "641aa355e76d5eaf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "249b77dd82576841",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f06cf3920e76cfba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a2dc0b331a2a0da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b789db55995e569",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "76f8f29933b19a27",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59816f9a1e2c3590",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "340831efd47be836",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3bebbdbbc9228f97",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "53eca8ee24170b7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e3deb5e322aaec8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8bc703445bf1bb96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7885acfc8a62ce5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,28 +153,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-5e-statblocks:Open Creature Pane": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "rpg-manager:RPG Manager": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0e3deb5e322aaec8",
+  "active": "967a6ff2e6318791",
   "lastOpenFiles": [
+    "Party/Alec's character/Character Sheet.pdf",
+    "Party/Alec's character/Test Sheet.md",
+    "DnD_5E_CharacterSheet_FormFillable.pdf",
+    "Party/Alec's character/General Notes.md",
+    "Unconfirmed 600796.crdownload",
     "NPCs/Bob The Goblin.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
     "Excalidraw",
     "Campaign/Campaign.md",
-    "Party/Alec's character/General Notes.md",
     "Campaign",
     "Session notes",
     "Party/Ryan's character",
     "Party/Matt's character",
     "Party/Tom's character",
-    "Party/Alec's character",
-    "Party/Don Julio",
-    "Party/Don Julio",
-    "NPCs"
+    "Party/Alec's character"
   ]
 }
