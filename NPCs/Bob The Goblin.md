@@ -1,4 +1,4 @@
-Experimenting with the fantasy statblock plugin
+Experimenting with the fantasy statblock plugin 
 
 ```statblock
 creature: Goblin
@@ -9,4 +9,3 @@ bonus_actions:
   - name: Smack His Nuts
     desc: Smacks the nearest male creature's reproductive organs
 ```
-
