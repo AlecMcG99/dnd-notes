@@ -1,2 +1,2 @@
 ## General Philosophy
-The world has a general trajectory that is
+The world has a predetermined trajectory 
