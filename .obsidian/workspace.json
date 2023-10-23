@@ -122,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,6 +199,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "3c1f953f32a6dc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20008493f0199e84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "aefbc3c4e9a30df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641aa355e76d5eaf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,11 +244,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "466de14578fec85f",
+  "active": "3093ced9e30e0917",
   "lastOpenFiles": [
+    "NPCs/Bob The Goblin.md",
     "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
     "Excalidraw",
-    "NPCs/Bob The Goblin.md",
     "Campaign/Campaign.md",
     "Party/Alec's character/General Notes.md",
     "Campaign",
