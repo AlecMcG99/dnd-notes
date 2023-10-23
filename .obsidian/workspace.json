@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Bob The Goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Bob The Goblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "3093ced9e30e0917",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {}
+              "state": {
+                "file": "NPCs/Bob The Goblin.md"
+              }
             }
           },
           {
@@ -140,9 +136,17 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "33b67a8d6094eb7e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "16f9b3ad17daeb26",
@@ -227,6 +231,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "249b77dd82576841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06cf3920e76cfba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a2dc0b331a2a0da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b789db55995e569",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "76f8f29933b19a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59816f9a1e2c3590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,11 +286,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-5e-statblocks:Open Creature Pane": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3093ced9e30e0917",
+  "active": "967a6ff2e6318791",
   "lastOpenFiles": [
     "NPCs/Bob The Goblin.md",
     "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
