@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb04df203d35bdf0",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-readme",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ea99a6053234115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Campaign.md",
+                "file": "NPCs/Bob The Goblin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Campaign.md"
+                "file": "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md"
               }
             }
           },
@@ -157,9 +134,73 @@
               "type": "rpg-manager-options",
               "state": {}
             }
+          },
+          {
+            "id": "9034be6b4fe89745",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "16f9b3ad17daeb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "547ed07e66533859",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d1b511d9727022e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb79d41316f1f8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a88fa70fd1a38a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2d56bcc87037cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0819a9bfd096e9a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d8b63c5fd2b48d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,13 +214,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "rpg-manager:RPG Manager": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ea99a6053234115",
+  "active": "466de14578fec85f",
   "lastOpenFiles": [
-    "Party/Alec's character/General Notes.md",
+    "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
+    "Excalidraw",
+    "NPCs/Bob The Goblin.md",
     "Campaign/Campaign.md",
+    "Party/Alec's character/General Notes.md",
     "Campaign",
     "Session notes",
     "Party/Ryan's character",
@@ -188,7 +233,6 @@
     "Party/Alec's character",
     "Party/Don Julio",
     "Party/Don Julio",
-    "NPCs",
-    "Party"
+    "NPCs"
   ]
 }
