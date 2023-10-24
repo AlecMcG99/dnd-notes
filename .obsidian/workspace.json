@@ -136,6 +136,14 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "69adf2857a8b4b03",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -147,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,18 +163,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature Pane": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "967a6ff2e6318791",
   "lastOpenFiles": [
-    "Party/Alec's character/Character Sheet.pdf",
-    "Party/Alec's character/Test Sheet.md",
+    "NPCs/Bob The Goblin.md",
     "DnD_5E_CharacterSheet_FormFillable.pdf",
     "Party/Alec's character/General Notes.md",
+    "Party/Alec's character/Character Sheet.pdf",
+    "Party/Alec's character/Test Sheet.md",
     "Unconfirmed 600796.crdownload",
-    "NPCs/Bob The Goblin.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
     "Excalidraw",
