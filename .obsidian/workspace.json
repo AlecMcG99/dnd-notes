@@ -11,12 +11,8 @@
             "id": "967a6ff2e6318791",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildemount/Odessloe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Odessloe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Odessloe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wildemount/Odessloe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,23 +152,41 @@
   },
   "active": "967a6ff2e6318791",
   "lastOpenFiles": [
-    "Party/Alec's character/Drawing 2023-10-25 11.56.01.excalidraw.md",
+    "5e_reference/Wizard.md",
+    "5e_reference/Warlock.md",
+    "5e_reference/Weapons.md",
+    "5e_reference/NPCs.md",
+    "5e_reference/monsters/Angels.md",
+    "5e_reference/monsters/Aboleth.md",
+    "5e_reference/Ability Checks.md",
+    "Wildemount/Odessloe.md",
+    "5e_reference/Underwater Combat.md",
+    "5e_reference/Treasure.md",
+    "5e_reference/Trade Goods.md",
+    "5e_reference/Tools.md",
+    "5e_reference/Time.md",
+    "5e_reference/Tiefling.md",
+    "5e_reference/The Environment.md",
+    "5e_reference/Spells.md",
+    "5e_reference/Spellcasting.md",
+    "5e_reference/Spell Saving Throws.md",
+    "5e_reference/Spell Attack Rolls.md",
+    "5e_reference/Sorcerer.md",
+    "5e_reference/Situational Rules.md",
+    "5e_reference/Sentient Magic.md",
+    "5e_reference/Saving Throws.md",
+    "5e_reference/Rogue.md",
+    "5e_reference/Rituals.md",
+    "5e_reference/Resting.md",
+    "5e_reference/spells",
+    "5e_reference/monsters",
+    "5e_reference/items",
+    "5e_reference/creatures",
+    "5e_reference",
     "Party/Alec's character/Character Sheet.pdf",
     "Party/Alec's character/Character Sheet 1.pdf",
-    "Party/Alec's character/General Notes.md",
     "DnD_5E_CharacterSheet_FormFillable.pdf",
-    "Wildemount/Odessloe.md",
     "Wildemount",
-    "Party/Alec's character/Test Sheet.md",
-    "Unconfirmed 600796.crdownload",
-    "NPCs/Bob The Goblin.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-10-23 11.15.26.excalidraw.md",
-    "Excalidraw",
-    "Campaign/Campaign.md",
-    "Campaign",
-    "Session notes",
-    "Party/Ryan's character",
-    "Party/Matt's character"
+    "Unconfirmed 600796.crdownload"
   ]
 }
