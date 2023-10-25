@@ -1,4 +1,4 @@
-name: Merge all branches into main
+name: Sync up branches
 
 on: workflow_dispatch
 
@@ -7,17 +7,17 @@ permissions:
       pull-requests: write
 
 jobs:
-      merge-into-master:
-            runs-on: ubuntu-latest
-            env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              steps:
-                - name: Get Branches
-                  id: get_branches
-                  uses: octokit/graphql-action@v2.2.25
-                  with:
-                      query: |
-                          query {
+  merge-into-master:
+        runs-on: ubuntu-latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          steps:
+        - name: Get Branches
+          id: get_branches
+          uses: octokit/graphql-action@v2.2.25
+          with:
+              query: |
+                  query {
                               repository(owner: "${{ github.repository_owner }}", name: ${{ github.repository }}) {
                                   id
                                   refs(first: 25, refPrefix: "refs/heads/") {
