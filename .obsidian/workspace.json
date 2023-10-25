@@ -11,9 +11,11 @@
             "id": "967a6ff2e6318791",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_attachments/Wildemount_Poster_Map.webp"
+                "file": "Wildemount/Odessloe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_attachments/Wildemount_Poster_Map.webp",
+                "file": "Wildemount/Odessloe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_attachments/Wildemount_Poster_Map.webp",
+                "file": "Wildemount/Odessloe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_attachments/Wildemount_Poster_Map.webp"
+                "file": "Wildemount/Odessloe.md"
               }
             }
           },
@@ -159,10 +161,14 @@
   },
   "active": "967a6ff2e6318791",
   "lastOpenFiles": [
+    "z_attachments/Odessloe_map_EGTW.png",
+    "Wildemount/Odessloe.md",
+    "z_attachments/Odessloe_map_EGTW.png.crdownload",
+    "z_attachments/Odessloe_-_Jess_Radley.webp",
+    "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
     "Wildemount/WildeMount.md",
     "z_attachments/Wildemount_Poster_Map.webp",
     "z_attachments/Wildemount_Poster_Map.webp.crdownload",
-    "Wildemount/Odessloe.md",
     "z_templates",
     "z_attachments",
     "5e_reference/Wizard.md",
@@ -192,8 +198,6 @@
     "5e_reference/monsters",
     "5e_reference/items",
     "5e_reference/creatures",
-    "5e_reference",
-    "Party/Alec's character/Character Sheet.pdf",
-    "Party/Alec's character/Character Sheet 1.pdf"
+    "5e_reference"
   ]
 }
