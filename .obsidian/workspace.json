@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Wildemount/Wildemount.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0ab095823d07a421",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildemount/Odessloe.md"
+                "file": "Wildemount/Wildemount.md"
               }
             }
           },
@@ -166,7 +167,7 @@
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
-    "Wildemount/WildeMount.md",
+    "Wildemount/Wildemount.md",
     "z_attachments/Wildemount_Poster_Map.webp",
     "z_attachments/Wildemount_Poster_Map.webp.crdownload",
     "z_templates",

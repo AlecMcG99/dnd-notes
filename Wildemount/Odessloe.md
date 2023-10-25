@@ -8,11 +8,10 @@ tags:
 ```leaflet
 id: [[Odessloe]] 
 image: [[Wildemount_Poster_Map.webp]]
-defaultZoom: 8
-lat: 45
-long: 48
-
+lat: 42.5
+long: 48.75
+defaultZoom: 9
 ```
-## Industries
+# Industries
 
-## NPCs
+# NPCs
