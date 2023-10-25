@@ -11,8 +11,12 @@
             "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wildemount/Wildemount.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wildemount/Wildemount.md"
+              }
             }
           },
           {
@@ -153,6 +161,9 @@
   },
   "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
+    "Wildemount/Odessloe.md",
+    "Party/Alec's character/General Notes.md",
+    "5e_reference/Spells.md",
     "Wildemount/Wildemount.md",
     "5e_reference/npcs/Veteran.md",
     "5e_reference/npcs/Tribal Warrior.md",
@@ -176,7 +187,6 @@
     "5e_reference/npcs/Archmage.md",
     "5e_reference/npcs/Acolyte.md",
     "5e_reference/npcs",
-    "Wildemount/Odessloe.md",
     "z_attachments/Odessloe_map_EGTW.png",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
@@ -186,8 +196,6 @@
     "z_templates",
     "z_attachments",
     "5e_reference/Wizard.md",
-    "5e_reference/Warlock.md",
-    "5e_reference/Weapons.md",
     "5e_reference/spells",
     "5e_reference/monsters",
     "5e_reference/items",
