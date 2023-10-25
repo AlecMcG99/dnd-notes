@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Bob The Goblin.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Bob The Goblin.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Bob The Goblin.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Bob The Goblin.md"
+                "file": "Party/Alec's character/General Notes.md"
               }
             }
           },
@@ -166,12 +166,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "967a6ff2e6318791",
+  "active": "466de14578fec85f",
   "lastOpenFiles": [
+    "Untitled",
+    "NPCs/Bob The Goblin.md",
     "Party/Alec's character/General Notes.md",
     "Party/Alec's character/Character Sheet.pdf",
     "DnD_5E_CharacterSheet_FormFillable.pdf",
-    "NPCs/Bob The Goblin.md",
     "Party/Alec's character/Test Sheet.md",
     "Unconfirmed 600796.crdownload",
     "Untitled.md",
