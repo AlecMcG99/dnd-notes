@@ -1,9 +1,6 @@
-name: Merged to Master Workflow
+name: Merge main into all branches
 
-on:
-  pull_request:
-    types: [closed]
-    branches: ['master']
+on: workflow_dispatch
 
 permissions:
       contents: write
