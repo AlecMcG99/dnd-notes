@@ -11,11 +11,9 @@
             "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Wildemount/Wildemount.md",
-                "mode": "source",
-                "source": false
+                "file": "Party/Alec's character/Character Sheet.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Wildemount.md",
+                "file": "Party/Alec's character/Character Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Wildemount.md",
+                "file": "Party/Alec's character/Character Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildemount/Wildemount.md"
+                "file": "Party/Alec's character/Character Sheet.pdf"
               }
             }
           },
@@ -159,12 +157,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "01b75fb0d9904fb6",
+  "active": "466de14578fec85f",
   "lastOpenFiles": [
-    "Wildemount/Odessloe.md",
     "Party/Alec's character/General Notes.md",
-    "5e_reference/Spells.md",
+    "Party/Alec's character/Character Sheet (1).pdf",
+    "Party/Alec's character/Character Sheet.pdf",
     "Wildemount/Wildemount.md",
+    "Wildemount/Odessloe.md",
+    "5e_reference/Spells.md",
     "5e_reference/npcs/Veteran.md",
     "5e_reference/npcs/Tribal Warrior.md",
     "5e_reference/npcs/Thug.md",
@@ -195,10 +195,7 @@
     "z_attachments/Wildemount_Poster_Map.webp.crdownload",
     "z_templates",
     "z_attachments",
-    "5e_reference/Wizard.md",
     "5e_reference/spells",
-    "5e_reference/monsters",
-    "5e_reference/items",
-    "5e_reference/creatures"
+    "5e_reference/monsters"
   ]
 }
