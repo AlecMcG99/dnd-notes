@@ -19,7 +19,7 @@ jobs:
         with:
             query: |
                 query {
-                    repository(owner: "${{ github.repository_owner }}", name: ${{ github.repository }}) {
+                    repository(owner: "${{ github.repository_owner }}", name: "${{ github.repository }}") {
                         id
                         refs(first: 25, refPrefix: "refs/heads/") {
                             nodes {
