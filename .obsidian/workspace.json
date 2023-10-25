@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4fde0b49d9132fa0",
+        "id": "b7d9031bba73f8a5",
         "type": "tabs",
         "children": [
           {
-            "id": "01b75fb0d9904fb6",
+            "id": "2d61891a667f966c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildemount/Wildemount.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ab095823d07a421",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wildemount/Wildemount.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,9 +128,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "91ee183120348172",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,12 +154,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature Pane": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "01b75fb0d9904fb6",
+  "active": "466de14578fec85f",
   "lastOpenFiles": [
     "5e_reference/npcs/Veteran.md",
     "5e_reference/npcs/Tribal Warrior.md",
