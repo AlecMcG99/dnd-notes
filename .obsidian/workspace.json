@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8efd162a51ceb769",
+        "id": "4fde0b49d9132fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "967a6ff2e6318791",
+            "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +156,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "967a6ff2e6318791",
+  "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
-    "z_attachments/Odessloe_map_EGTW.png",
     "Wildemount/Odessloe.md",
+    "z_attachments/Odessloe_map_EGTW.png",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
