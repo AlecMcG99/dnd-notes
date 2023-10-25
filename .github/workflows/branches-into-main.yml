@@ -19,7 +19,7 @@ jobs:
         with:
             query: |
                 query {
-                    repository(owner: "${{ github.repository_owner }}", name: "${{ github.repository }}") {
+                    repository(owner: "${{ github.repository_owner }}", name: "dnd-notes") {
                         id
                         refs(first: 25, refPrefix: "refs/heads/") {
                             nodes {
@@ -39,7 +39,7 @@ jobs:
                   try {
                     const response = await github.rest.repos.merge({
                         owner: '${{ github.repository_owner }}',
-                        repo: '${{ github.repository }}',
+                        repo: 'dnd-notes',
                         base: 'main',
                         head: branch.name
                     })
@@ -47,7 +47,7 @@ jobs:
                     if(error.status === 409) {
                         github.rest.pulls.create({
                             owner: '${{ github.repository_owner }}',
-                            repo: '${{ github.repository }}',
+                            repo: 'dnd-notes',
                             base: 'main',
                             head: branch.name,
                             title: `Automated PR from ${branch.name} due to merge conflict`
