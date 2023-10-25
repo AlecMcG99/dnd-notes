@@ -11,8 +11,10 @@
             "id": "967a6ff2e6318791",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "z_attachments/Wildemount_Poster_Map.webp"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "z_attachments/Wildemount_Poster_Map.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "z_attachments/Wildemount_Poster_Map.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "z_attachments/Wildemount_Poster_Map.webp"
+              }
             }
           },
           {
@@ -147,11 +153,18 @@
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature Pane": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "967a6ff2e6318791",
   "lastOpenFiles": [
+    "Wildemount/WildeMount.md",
+    "z_attachments/Wildemount_Poster_Map.webp",
+    "z_attachments/Wildemount_Poster_Map.webp.crdownload",
+    "Wildemount/Odessloe.md",
+    "z_templates",
+    "z_attachments",
     "5e_reference/Wizard.md",
     "5e_reference/Warlock.md",
     "5e_reference/Weapons.md",
@@ -159,7 +172,6 @@
     "5e_reference/monsters/Angels.md",
     "5e_reference/monsters/Aboleth.md",
     "5e_reference/Ability Checks.md",
-    "Wildemount/Odessloe.md",
     "5e_reference/Underwater Combat.md",
     "5e_reference/Treasure.md",
     "5e_reference/Trade Goods.md",
@@ -176,17 +188,12 @@
     "5e_reference/Sentient Magic.md",
     "5e_reference/Saving Throws.md",
     "5e_reference/Rogue.md",
-    "5e_reference/Rituals.md",
-    "5e_reference/Resting.md",
     "5e_reference/spells",
     "5e_reference/monsters",
     "5e_reference/items",
     "5e_reference/creatures",
     "5e_reference",
     "Party/Alec's character/Character Sheet.pdf",
-    "Party/Alec's character/Character Sheet 1.pdf",
-    "DnD_5E_CharacterSheet_FormFillable.pdf",
-    "Wildemount",
-    "Unconfirmed 600796.crdownload"
+    "Party/Alec's character/Character Sheet 1.pdf"
   ]
 }
