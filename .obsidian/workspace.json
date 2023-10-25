@@ -11,12 +11,8 @@
             "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildemount/Wildemount.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ab095823d07a421",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wildemount/Wildemount.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,6 +153,7 @@
   },
   "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
+    "Wildemount/Wildemount.md",
     "5e_reference/npcs/Veteran.md",
     "5e_reference/npcs/Tribal Warrior.md",
     "5e_reference/npcs/Thug.md",
@@ -189,7 +181,6 @@
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
-    "Wildemount/Wildemount.md",
     "z_attachments/Wildemount_Poster_Map.webp",
     "z_attachments/Wildemount_Poster_Map.webp.crdownload",
     "z_templates",
