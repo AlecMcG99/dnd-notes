@@ -1,0 +1,62 @@
+name: Merged to Master Workflow
+
+on:
+  pull_request:
+    types: [closed]
+    branches: ['master']
+
+permissions:
+      contents: write
+      pull-requests: write
+
+jobs:
+  merge-into-other-branches:
+    runs-on: ubuntu-latest
+    name: Merge master into other branches
+    env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Get Branches
+        id: get_branches
+        uses: octokit/graphql-action@v2.2.25
+        with:
+            query: |
+                query {
+                    repository(owner: "${{ github.repository_owner }}", name: ${{ github.repository }}) {
+                        id
+                        refs(first: 25, refPrefix: "refs/heads/") {
+                            nodes {
+                                name
+                            }
+                        }
+                    }
+                }
+                
+      - name: Merge Master into Branches
+        uses: actions/github-script@v6
+        with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            script: |
+                const branches = JSON.parse(${{ toJson(steps.get_branches.outputs.data)}}).repository.refs.nodes
+                for (const branch of branches) {
+                  try {
+                    const response = await github.rest.repos.merge({
+                        owner: '${{ github.repository_owner }}',
+                        repo: '${{ github.repository }}',
+                        base: branch.name,
+                        head: 'master'
+                    })
+                  } catch(error) {
+                    if(error.status === 409) {
+                        github.rest.pulls.create({
+                            owner: '${{ github.repository_owner }}',
+                            repo: '${{ github.repository }}',
+                            base: branch.name,
+                            head: 'master',
+                            title: 'Automated PR from master due to merge conflict'
+                        })
+                    } else {
+                      throw error
+                    }
+                  }
+                }

@@ -11,9 +11,11 @@
             "id": "967a6ff2e6318791",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Wildemount/Odessloe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Wildemount/Odessloe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Wildemount/Odessloe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Wildemount/Odessloe.md"
               }
             }
           },
@@ -158,8 +160,9 @@
   },
   "active": "967a6ff2e6318791",
   "lastOpenFiles": [
-    "Party/Alec's character/Character Sheet 1.pdf",
+    "Party/Alec's character/Drawing 2023-10-25 11.56.01.excalidraw.md",
     "Party/Alec's character/Character Sheet.pdf",
+    "Party/Alec's character/Character Sheet 1.pdf",
     "Party/Alec's character/General Notes.md",
     "DnD_5E_CharacterSheet_FormFillable.pdf",
     "Wildemount/Odessloe.md",
@@ -174,7 +177,6 @@
     "Campaign",
     "Session notes",
     "Party/Ryan's character",
-    "Party/Matt's character",
-    "Party/Tom's character"
+    "Party/Matt's character"
   ]
 }
