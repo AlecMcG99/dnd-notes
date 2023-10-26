@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Wildemount.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/General Notes.md"
+                "file": "Wildemount/Wildemount.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
+    "Party/Alec's character/General Notes.md",
     "Wildemount/Odessloe.md",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "Wildemount/Wildemount.md",
@@ -168,7 +169,6 @@
     "5e_reference/spells/Reincarnate.md",
     "5e_reference/Half-Orc.md",
     "Party/Alec's character/Character Sheet.pdf",
-    "Party/Alec's character/General Notes.md",
     "Party/Alec's character/Character Sheet (1).pdf",
     "5e_reference/Spells.md",
     "5e_reference/npcs/Veteran.md",
