@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Party/Don Julio/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Party/Don Julio/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Odessloe.md",
+                "file": "Party/Don Julio/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildemount/Odessloe.md"
+                "file": "Party/Don Julio/Notes.md"
               }
             }
           },
@@ -177,8 +177,14 @@
   },
   "active": "2d61891a667f966c",
   "lastOpenFiles": [
-    "Party/Alec's character/Character Sheet.pdf",
     "Party/Alec's character/General Notes.md",
+    "Party/Don Julio/Notes.md",
+    "Wildemount/Odessloe.md",
+    "Wildemount/WildeMount.md",
+    "NPCs/Bob The Goblin.md",
+    "Party/Don Julio",
+    "Party/Alec's character/Character Sheet.pdf",
+    "Party/Don Julio.md",
     "5e_reference/npcs/Veteran.md",
     "5e_reference/npcs/Tribal Warrior.md",
     "5e_reference/npcs/Thug.md",
@@ -199,22 +205,16 @@
     "5e_reference/npcs/Bandit.md",
     "5e_reference/npcs/Assassin.md",
     "5e_reference/npcs/Archmage.md",
-    "5e_reference/npcs/Acolyte.md",
     "5e_reference/npcs",
-    "Wildemount/Odessloe.md",
     "z_attachments/Odessloe_map_EGTW.png",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
-    "Wildemount/Wildemount.md",
     "z_attachments/Wildemount_Poster_Map.webp",
     "z_attachments/Wildemount_Poster_Map.webp.crdownload",
     "z_templates",
     "z_attachments",
-    "5e_reference/Wizard.md",
     "5e_reference/spells",
-    "5e_reference/monsters",
-    "5e_reference/items",
-    "5e_reference/creatures"
+    "5e_reference/monsters"
   ]
 }
