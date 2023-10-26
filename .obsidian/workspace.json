@@ -11,9 +11,11 @@
             "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Wildemount/Wildemount.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "half-orc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Wildemount/Wildemount.md"
               }
             }
           },
@@ -157,12 +159,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "466de14578fec85f",
+  "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
+    "5e_reference/spells/Reincarnate.md",
+    "5e_reference/Half-Orc.md",
+    "Wildemount/Wildemount.md",
+    "Party/Alec's character/Character Sheet.pdf",
     "Party/Alec's character/General Notes.md",
     "Party/Alec's character/Character Sheet (1).pdf",
-    "Party/Alec's character/Character Sheet.pdf",
-    "Wildemount/Wildemount.md",
     "Wildemount/Odessloe.md",
     "5e_reference/Spells.md",
     "5e_reference/npcs/Veteran.md",
@@ -185,7 +189,6 @@
     "5e_reference/npcs/Bandit.md",
     "5e_reference/npcs/Assassin.md",
     "5e_reference/npcs/Archmage.md",
-    "5e_reference/npcs/Acolyte.md",
     "5e_reference/npcs",
     "z_attachments/Odessloe_map_EGTW.png",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
