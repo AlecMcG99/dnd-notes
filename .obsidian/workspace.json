@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Silberquel Ridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Silberquel Ridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Silberquel Ridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/General Notes.md"
+                "file": "Wildemount/Silberquel Ridge.md"
               }
             }
           },
@@ -174,8 +173,9 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
-    "5e_reference/Deities/Tymora.md",
     "Party/Alec's character/General Notes.md",
+    "Wildemount/Silberquel Ridge.md",
+    "5e_reference/Deities/Tymora.md",
     "5e_reference/Deities",
     "Wildemount/Wildemount.md",
     "mountain dwarf.md",
@@ -205,7 +205,6 @@
     "5e_reference/npcs/Cult Fanatic.md",
     "5e_reference/npcs/Commoner.md",
     "5e_reference/npcs/Berserker.md",
-    "5e_reference/npcs/Bandit Captain.md",
     "5e_reference/npcs",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
