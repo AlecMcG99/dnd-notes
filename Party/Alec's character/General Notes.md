@@ -10,4 +10,4 @@ The world appears to be a chaotic mess of random events and happenstance, but in
 
 ## Family 
 
-My father, Tog ShineRock
+My father, Tog Lug
