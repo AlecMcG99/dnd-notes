@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01b75fb0d9904fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Alec's character/General Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10cbcdf01ad85ac8",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Wildemount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Wildemount/Wildemount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/General Notes.md"
+                "file": "Wildemount/Wildemount.md"
               }
             }
           },
@@ -172,10 +160,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "01b75fb0d9904fb6",
+  "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
-    "Wildemount/Wildemount.md",
+    "mountain dwarf.md",
+    "5e_reference/Dwarf.md",
     "Party/Alec's character/General Notes.md",
+    "Wildemount/Wildemount.md",
     "Party/Alec's character/Character Sheet.pdf",
     "z_attachments/Wildemount_Poster_Map.webp",
     "Wildemount/Odessloe.md",
@@ -203,7 +193,6 @@
     "5e_reference/npcs/Berserker.md",
     "5e_reference/npcs/Bandit Captain.md",
     "5e_reference/npcs/Bandit.md",
-    "5e_reference/npcs/Assassin.md",
     "5e_reference/npcs",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
