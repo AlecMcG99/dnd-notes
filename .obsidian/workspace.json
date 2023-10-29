@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildemount/Wildemount.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Wildemount.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Wildemount.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildemount/Wildemount.md"
+                "file": "Party/Alec's character/General Notes.md"
               }
             }
           },
@@ -162,10 +162,10 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
+    "Wildemount/Wildemount.md",
     "mountain dwarf.md",
     "5e_reference/Dwarf.md",
     "Party/Alec's character/General Notes.md",
-    "Wildemount/Wildemount.md",
     "Party/Alec's character/Character Sheet.pdf",
     "z_attachments/Wildemount_Poster_Map.webp",
     "Wildemount/Odessloe.md",
