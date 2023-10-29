@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildemount/Silberquel Ridge.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildemount/Silberquel Ridge.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildemount/Silberquel Ridge.md",
+                "file": "Party/Alec's character/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildemount/Silberquel Ridge.md"
+                "file": "Party/Alec's character/General Notes.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
-    "Party/Alec's character/General Notes.md",
     "Wildemount/Silberquel Ridge.md",
+    "Party/Alec's character/General Notes.md",
     "5e_reference/Deities/Tymora.md",
     "5e_reference/Deities",
     "Wildemount/Wildemount.md",
