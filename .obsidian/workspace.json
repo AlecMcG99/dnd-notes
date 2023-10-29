@@ -11,9 +11,11 @@
             "id": "01b75fb0d9904fb6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Party/Alec's character/General Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Party/Alec's character/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf",
+                "file": "Party/Alec's character/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/Character Sheet.pdf"
+                "file": "Party/Alec's character/General Notes.md"
               }
             }
           },
@@ -159,6 +161,7 @@
   },
   "active": "01b75fb0d9904fb6",
   "lastOpenFiles": [
+    "Party/Alec's character/Character Sheet.pdf",
     "Party/Alec's character/General Notes.md",
     "Wildemount/Wildemount.md",
     "z_attachments/Wildemount_Poster_Map.webp",
@@ -167,7 +170,6 @@
     "z_attachments/Odessloe_map_EGTW.png",
     "5e_reference/spells/Reincarnate.md",
     "5e_reference/Half-Orc.md",
-    "Party/Alec's character/Character Sheet.pdf",
     "Party/Alec's character/Character Sheet (1).pdf",
     "5e_reference/Spells.md",
     "5e_reference/npcs/Veteran.md",

@@ -8,6 +8,8 @@ The world appears to be a chaotic mess of random events and happenstance, but in
 
 # Backstory
 
+## Community
+
 ## Family 
 
-My father, Tog Lug
+My father, Tog Av-Hakken (Norwegian for "of the pickaxe"), was 
