@@ -12,4 +12,4 @@ The world appears to be a chaotic mess of random events and happenstance, but in
 
 ## Family 
 
-My father, Tog Av-Hakken (Norwegian for "of the pickaxe"), was 
+My father, Tog Av-Hakken (Norwegian for "of the pickaxe"), was an promising 
