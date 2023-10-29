@@ -9,7 +9,7 @@ The world appears to be a chaotic mess of random events and happenstance, but in
 # Backstory
 
 ## Community
-
+The Lykkestein Mining Company is a community of mostly [[Orc]] and [[Half-Orc]] miners  
 ## Family 
 
 My father, Tog Av-Hakken (Norwegian for "of the pickaxe"), was an promising 
