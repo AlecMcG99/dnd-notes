@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "[[WildeMount]]",
-      "lastAccessed": 1698614502766,
+      "lastAccessed": 1698624491499,
       "markers": [
         {
           "id": "ID_6b2b480aea7b",
@@ -24,9 +24,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Wildemount/Wildemount.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

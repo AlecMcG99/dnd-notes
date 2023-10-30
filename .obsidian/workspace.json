@@ -149,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,18 +172,18 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
-    "5e_reference/Deities/Tymora.md",
-    "Party/Alec's character/General Notes.md",
-    "Wildemount/Druvenlode.md",
     "Wildemount/Wildemount.md",
+    "Wildemount/Odessloe.md",
+    "Wildemount/Silberquel Ridge.md",
+    "Party/Alec's character/General Notes.md",
+    "5e_reference/Deities/Tymora.md",
+    "Wildemount/Druvenlode.md",
     "Party/Alec's character/Character Sheet.pdf",
     "5e_reference/Deities/Beshaba.md",
-    "Wildemount/Silberquel Ridge.md",
     "5e_reference/Deities",
     "mountain dwarf.md",
     "5e_reference/Dwarf.md",
     "z_attachments/Wildemount_Poster_Map.webp",
-    "Wildemount/Odessloe.md",
     "z_attachments/Odessloe_-_Jess_Radley.webp",
     "z_attachments/Odessloe_map_EGTW.png",
     "5e_reference/spells/Reincarnate.md",
