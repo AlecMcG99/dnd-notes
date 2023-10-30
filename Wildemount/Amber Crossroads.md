@@ -1,0 +1,4 @@
+
+[![The Amber Crossroads - Emi (@emisartcr)](https://static.wikia.nocookie.net/criticalrole/images/a/a1/The_Amber_Crossroads_-_Emi_%28%40emisartcr%29.jpg/revision/latest/scale-to-width-down/270?cb=20211221133818)
+
+The Amber Crossroads are located not far south of Rexxentrum, at the intersection of the Amber Road, the Havenpath Road, the Cloakjaunt Path, and the [Glory Run Road](https://criticalrole.fandom.com/wiki/Glory_Run_Road "Glory Run Road"). A small market is located at this nexus, taking advantage of both the heavy traffic at the intersection as well as the distance from more stringent law enforcement as would be found in a more urban location. Performers and mercenaries looking for business, as well as criminals looking for marks, can be found here.
