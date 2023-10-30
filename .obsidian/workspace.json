@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Party/Alec's character/Character Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Party/Alec's character/Character Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Alec's character/General Notes.md",
+                "file": "Party/Alec's character/Character Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Alec's character/General Notes.md"
+                "file": "Party/Alec's character/Character Notes.md"
               }
             }
           },
@@ -172,14 +172,14 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
+    "Party/Alec's character/Character Sheet.pdf",
+    "Party/Alec's character/Character Notes.md",
     "Wildemount/Wildemount.md",
-    "Party/Alec's character/General Notes.md",
     "Wildemount/Amber Crossroads.md",
     "Wildemount/Odessloe.md",
     "Wildemount/Silberquel Ridge.md",
     "5e_reference/Deities/Tymora.md",
     "Wildemount/Druvenlode.md",
-    "Party/Alec's character/Character Sheet.pdf",
     "5e_reference/Deities/Beshaba.md",
     "5e_reference/Deities",
     "mountain dwarf.md",
@@ -203,7 +203,6 @@
     "5e_reference/npcs/Gladiator.md",
     "5e_reference/npcs/Guard.md",
     "5e_reference/npcs/Druid (NPC).md",
-    "5e_reference/npcs/Cultist.md",
     "5e_reference/npcs",
     "z_attachments/Odessloe_map_EGTW.png.crdownload",
     "z_attachments/Odessloe_-_Jess_Radley.webp.crdownload",
