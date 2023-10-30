@@ -92,6 +92,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0b467cc4a9d561a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party/Alec's character/General Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "956617bfc19bf09c",
             "type": "leaf",
             "state": {
@@ -104,18 +116,6 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0b467cc4a9d561a8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Party/Alec's character/General Notes.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -149,13 +149,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +171,10 @@
   },
   "active": "10cbcdf01ad85ac8",
   "lastOpenFiles": [
-    "Wildemount/Druvenlode.md",
-    "Party/Alec's character/General Notes.md",
-    "Wildemount/Wildemount.md",
     "5e_reference/Deities/Tymora.md",
+    "Party/Alec's character/General Notes.md",
+    "Wildemount/Druvenlode.md",
+    "Wildemount/Wildemount.md",
     "Party/Alec's character/Character Sheet.pdf",
     "5e_reference/Deities/Beshaba.md",
     "Wildemount/Silberquel Ridge.md",
