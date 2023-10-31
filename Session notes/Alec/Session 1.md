@@ -7,3 +7,10 @@ Don Julio
 
 YanYan loses 8 sp to me at a table while Don Julio watches
 VB comes over to talk to YanYan and joins the game
+
+A note gets passed to Don Julio 
+*The Dark Miasma Churns soon, be wary*
+
+DJ hails from from the blazers having just performed his ritual 
+
+Approx. 60 years ago, there was an explosion that introduced a lot of fiends that changed the Wildemount forest. 
