@@ -6,4 +6,9 @@ Jack:
 Barkeep Bob talking about the 'takings'
  - They've been happening for 80 years, since the demons started showing up
  - The Archbishop is an 'enemy of the state' but we didn't hear it from him 
- - 
+
+### Meeting with Jack 
+
+- Prior Abductions included the kids being stripped naked and acid holes being burned 
+- All children were the kids of higher-ups in the town clergy 
+- Litinus Octoff ()
