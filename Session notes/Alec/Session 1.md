@@ -20,4 +20,5 @@ Man burst into bar crying about his boy getting abducted by fiends. I flipped my
 The dad + 3 townsfolk split off into the woods 
 VB, YanYan, and DJ follow tracks that YanYan found and encounter the fiend and rats (imps)
 
+The kid got murked after the fight
 
