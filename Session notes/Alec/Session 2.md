@@ -14,5 +14,4 @@ Barkeep Bob talking about the 'takings'
 - They've been strung up in public to cause fear 
 - Theres a rumored camp of cultists?? that might be contributing to these killings
 - Jack gives us a map with a mark directly north of [[Odessloe]] 
-- 
-- Litinus Octoff ()
+- Litinus Octoff - Archibishop
