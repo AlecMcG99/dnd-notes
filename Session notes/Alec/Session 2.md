@@ -11,4 +11,8 @@ Barkeep Bob talking about the 'takings'
 
 - Prior Abductions included the kids being stripped naked and acid holes being burned 
 - All children were the kids of higher-ups in the town clergy 
+- They've been strung up in public to cause fear 
+- Theres a rumored camp of cultists?? that might be contributing to these killings
+- Jack gives us a map with a mark directly north of [[Odessloe]] 
+- 
 - Litinus Octoff ()
