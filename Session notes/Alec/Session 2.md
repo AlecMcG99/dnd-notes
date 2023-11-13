@@ -15,3 +15,11 @@ Barkeep Bob talking about the 'takings'
 - Theres a rumored camp of cultists?? that might be contributing to these killings
 - Jack gives us a map with a mark directly north of [[Odessloe]] 
 - Litinus Octoff - Archibishop
+
+### Fight night 
+-  secret door 10 minutes of stairs down to the arena 
+- Large arena 
+- Lars vs DWAYNE THE ROCK JOHNSON
+- lots of bets against the mantis 
+- 
+- 
