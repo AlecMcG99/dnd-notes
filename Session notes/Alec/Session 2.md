@@ -21,5 +21,5 @@ Barkeep Bob talking about the 'takings'
 - Large arena 
 - Lars vs DWAYNE THE ROCK JOHNSON
 - lots of bets against the mantis 
-- 
-- 
+- Lars Gets the shit beat out of him - Friends magic him back to health - Lars drops out of fight 
+- 3 thrones for leader and 2nd and 3rd in command with star symbol (The Myriad)
