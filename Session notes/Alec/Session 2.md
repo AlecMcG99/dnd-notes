@@ -17,7 +17,7 @@ Barkeep Bob talking about the 'takings'
 - Litinus Octoff - Archibishop
 
 ### Fight night 
--  secret door 10 minutes of stairs down to the arena 
+-  secret door 10 minutes of stairs down to the arena massive hideout with lots of side tunnels
 - Large arena 
 - Lars vs DWAYNE THE ROCK JOHNSON
 - lots of bets against the mantis 
