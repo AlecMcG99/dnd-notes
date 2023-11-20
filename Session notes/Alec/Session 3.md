@@ -19,3 +19,8 @@ Dragonborn
 YanYan tries to get a silvered grill 
 Lars gets Silvered Brass knuckles 
 Blacksmith asks which Bob we know and says 'you haven't been around for that long' when we say both, implying there are a lot of Bobs 
+
+## Scouting the Cult camp 
+
+We are on a ridge overlooking a cave where there is a beach the partially makes up the entrance.
+We s
