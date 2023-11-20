@@ -17,3 +17,5 @@ This underground ring is a massive base
 
 Dragonborn 
 YanYan tries to get a silvered grill 
+Lars gets Silvered Brass knuckles 
+Blacksmith asks which Bob we know and says 'you haven't been around for that long' when we say both, implying there are a lot of Bobs 
