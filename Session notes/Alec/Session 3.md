@@ -12,3 +12,8 @@ This underground ring is a massive base
 
 ## Myriad Symbol 
 ![[Pasted image 20231119190735.png]]
+
+## Blacksmith 
+
+Dragonborn 
+YanYan tries to get a silvered grill 
