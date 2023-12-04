@@ -23,4 +23,5 @@ Blacksmith asks which Bob we know and says 'you haven't been around for that lon
 ## Scouting the Cult camp 
 
 We are on a ridge overlooking a cave where there is a beach the partially makes up the entrance.
-We s
+We see darklings, imps and a hag. 
+Don Julio jumps into a tree and fails his stealth check which alerts 3 darklings to his position
