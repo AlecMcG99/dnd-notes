@@ -14,3 +14,4 @@ I sensed
 
 We fight and kill some imps, YanYan charms one of the darklings and tries to convince him to call off the fight 
 Lars immediately kills the charmed darkling
+Our ranger friend shows up out of nowhere and throws his dynamite into a large group of approaching fiends and blows up 7/8 of them
