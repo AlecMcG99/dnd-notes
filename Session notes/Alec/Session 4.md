@@ -9,3 +9,8 @@ I sensed
 - 3 darklings 
 - 2 sea hags 
 - And a large evil presence inside the cave
+
+## The Fight 
+
+We fight and kill some imps, YanYan charms one of the darklings and tries to convince him to call off the fight 
+Lars immediately kills the charmed darkling
