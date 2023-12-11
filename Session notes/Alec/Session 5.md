@@ -8,3 +8,6 @@ Steven - sniveling kid
 Tony - rogue 
 Twan - rogue 
 Jeff - rogue
+
+We see 3 devils heading toward the town and decide to head back and try to save the kid we assume they are going to kidnap. Tony and Twan stay back 
+YanYan tries to naruto run through the trees and took the wrong path, fell and got seperated from the party 
