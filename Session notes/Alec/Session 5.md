@@ -14,3 +14,9 @@ YanYan tries to naruto run through the trees and took the wrong path, fell and g
 
 ## YanYans 'adventure'
 
+YanYan is running through the woods and runs into a bear 
+One piece Haki style stares him down and intimidates it away
+Runs into a [[Blink Dog]] 
+Charms it, fed it. It grabbed the meat and ran. 
+Tames the [[Blink Dog]] with his pipes 
+We have a [[Blink Dog]]! 
