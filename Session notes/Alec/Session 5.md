@@ -20,3 +20,9 @@ Runs into a [[Blink Dog]]
 Charms it, fed it. It grabbed the meat and ran. 
 Tames the [[Blink Dog]] with his pipes 
 We have a [[Blink Dog]]! 
+
+## Back to [[Odessloe]] 
+
+Below the devil we see a Goat headed demon
+![[Pasted image 20231210200010.png]]
+and and a bunch of other demons 
