@@ -14,4 +14,4 @@ Bob comes over and looks at the symbol
 - He is a greater demon 
 Bob 4(Southern wizard Bob) comes out and tells us that:
 - Its not good 
-- its a mark that gets placed on sacrifices and when the sacrifices all die the dark ritual will be complete  
+- its a mark that gets placed on sacrifices and when the sacrifices all die the dark ritual will be complete   
