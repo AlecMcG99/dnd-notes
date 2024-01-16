@@ -12,4 +12,6 @@ A kid I was helping heal coughed up black stuff on me and died Theres a symbol o
 Bob comes over and looks at the symbol 
 - Its the symbol of Gidorath 
 - He is a greater demon 
-- Bob 4(Southern wizard Boob)
+Bob 4(Southern wizard Bob) comes out and tells us that:
+- Its not good 
+- its a mark that gets placed on sacrifices and when the sacrifices all die the dark ritual will be complete  
