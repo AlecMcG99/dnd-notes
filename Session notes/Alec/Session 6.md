@@ -15,3 +15,6 @@ Bob comes over and looks at the symbol
 Bob 4(Southern wizard Bob) comes out and tells us that:
 - Its not good 
 - its a mark that gets placed on sacrifices and when the sacrifices all die the dark ritual will be complete   
+
+We rounded up 4 of them into the jail and Bob got 3 in the tavern
+- The guard (Jeff) is setting up shifts to watch the victims in the jail
