@@ -27,4 +27,4 @@ Below the devil we see a Goat headed demon
 ![[Pasted image 20231210200010.png]]
 and and a bunch of other demons 
 
-After a long fight, the goat headed demon jumped and grabbed the tail of a flying spine devil. YanYan gets to the town, Blink dogs up to the top of the roof and SNIPES 
+After a long fight, the goat headed demon jumped and grabbed the tail of a flying spine devil. YanYan gets to the town, Blink dogs up to the top of the roof and SNIPES his hand, severing it and killing him. His corpse drops down onto the wall 
